@@ -47,6 +47,9 @@ Support for multiple cameras in the monitor view.
 ### [Print Time Genius](https://plugins.octoprint.org/plugins/PrintTimeGenius)
 Delay starting the print until after gcode analysis is done.
 
+View from Cura 4.4
+![CuraPlugin](/docs/CuraOctoPrintPlugin.png)
+
 Notes on UltiGCode (Ultimaker 2/Ultimaker 2+)
 ----
 The Ultimaker 2(+) family uses a flavor of GCode named UltiGCode. Unfortunately printing
